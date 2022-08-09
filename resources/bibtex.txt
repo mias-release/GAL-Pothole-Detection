@@ -1,0 +1,9 @@
+@article{fan2021graph,
+  title={Graph attention layer evolves semantic segmentation for road pothole detection: A benchmark and algorithms},
+  author={Fan, Rui and Wang, Hengli and Wang, Yuan and Liu, Ming and Pitas, Ioannis},
+  journal={IEEE transactions on image processing},
+  volume={30},
+  pages={8144--8154},
+  year={2021},
+  publisher={IEEE}
+}
