@@ -1,8 +1,3 @@
-# GAL-Pothole-Detection
+# GAL-Pothole-Detectio	
 
-
-Sorry for the delay of releasing the code. Rui is busy with teaching and Hengli is preparing his PhD thesis. 
-
-We will try our best to release the code ASAP.
-
-Rui
+Project webpage of ''Graph Attention Layer Evolves Semantic Segmentation for Road Pothole Detection: A Benchmark and Algorithms''.
